@@ -1,8 +1,8 @@
 {
-  "id": "vtm5e",
+  "id": "wta5e",
   "title": "Gianni's World of Darkness 5e",
   "description": "WoD with Werewolves 5e system for Foundry VTT",
-  "version": "3.0.0-prerelease4",
+  "version": "3.0.0",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
