@@ -1,7 +1,7 @@
 {
   "id": "vtm5e",
-  "title": "World of Darkness 5e",
-  "description": "World of Darkness 5e system for Foundry VTT",
+  "title": "Gianni's World of Darkness 5e",
+  "description": "WoD with Werewolves 5e system for Foundry VTT",
   "version": "3.0.0-prerelease4",
   "compatibility": {
     "minimum": "10",
@@ -80,6 +80,6 @@
   "license": "LICENSE.txt",
   "url": "https://github.com/Rayji96/foundry-V5",
   "background": "systems/vtm5e/assets/images/wodcity.jpg",
-  "manifest": "https://github.com/Rayji96/foundry-V5/releases/download/3.0.0-prerelease4/system.json",
-  "download": "https://github.com/Rayji96/foundry-V5/releases/download/3.0.0-prerelease4/vtm5e-3.0.0-prerelease4.zip"
+  "manifest": "https://raw.githubusercontent.com/Azkarna/WEREWOLF-SYSTEM/main/system.json",
+  "download": "https://github.com/Azkarna/WEREWOLF-SYSTEM/raw/main/vtm5e-3.0.0-prerelease4.zip"
 }
